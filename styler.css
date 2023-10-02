@@ -9,7 +9,7 @@
 .box-navegation {                                        /*menu navegação*/
     height: 100vh;
     width: 100%;
-    background-image: url(./img/background.png);
+    background-image: url(./img/desenvolvedor_front_back_endjpg.jpg);
     background-color: #191919;
     background-size: cover;
 }
@@ -21,9 +21,12 @@ nav {
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 25px;
+    background-color: chartreuse;
 }
 
                   /* inicio de logo marcas*/
+
+
 
 .logohtml {
     display: flex;
@@ -46,8 +49,9 @@ nav {
 .logoc{
     display: flex;
     height: 200px;
-    margin-left: 30%;
-    top:2px;
+    margin-left: 60%;
+    margin-top: -300px;
+   
 }
 
                /*final de logo*/
@@ -90,7 +94,7 @@ h2{
     color: #f9004d;
 }
 .programador{
-    color: #ffff;
+    color: black;
     font-size: 40px;
 }
 
